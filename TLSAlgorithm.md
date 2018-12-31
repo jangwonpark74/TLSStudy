@@ -6,3 +6,6 @@
 - ECDHE (Elliptic Curve Diffie-Hellman with Ephemeral keys) - RFC 4492
 - GCM (Galois/Counter Mode) - NIST SP 800-38D
 - HKDF (HMAC Key Derivation Function) - RFC 5869
+
+## Reference Implementation 
+- [tincan-TLS](https://github.com/syncsynchalt/tincan-tls)
